@@ -32,7 +32,7 @@ export function AboutSection() {
           <div>
             <motion.div variants={fadeUp}>
               <span className="inline-block text-xs font-bold uppercase tracking-widest text-gold bg-amber-50 border border-amber-200 px-3 py-1 rounded-full mb-4">
-                About SynergERP
+                About Tria E Praxis
               </span>
             </motion.div>
 
@@ -56,8 +56,8 @@ export function AboutSection() {
               variants={fadeUp}
               className="text-base text-foreground/80 leading-relaxed mb-8"
             >
-              Founded over 15 years ago, SynergERP has built a reputation as a
-              trusted partner for organisations that need more than just
+              Founded over 15 years ago, Tria E Praxis has built a reputation as
+              a trusted partner for organisations that need more than just
               software — they need expertise, continuity, and a team invested in
               their long-term success. With more than 200 successful
               implementations across Manufacturing, Education, and Service

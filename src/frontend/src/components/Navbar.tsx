@@ -51,7 +51,7 @@ export function Navbar() {
           type="button"
           onClick={() => handleNavClick("#home")}
           className="flex items-center gap-2 group"
-          aria-label="SynergERP Home"
+          aria-label="Tria E Praxis Home"
         >
           <div className="w-8 h-8 rounded-lg bg-navy flex items-center justify-center shadow-navy-sm group-hover:shadow-navy-md transition-shadow">
             <Zap className="w-4 h-4 text-gold" strokeWidth={2.5} />
@@ -61,7 +61,7 @@ export function Navbar() {
               scrolled ? "text-navy-deep" : "text-white"
             }`}
           >
-            Synerg<span className="text-gold">ERP</span>
+            Tria E <span className="text-gold">Praxis</span>
           </span>
         </button>
 

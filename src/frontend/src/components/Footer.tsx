@@ -28,8 +28,8 @@ const FOOTER_LINKS = {
 const CONTACT_INFO = [
   "14 Commerce Park Drive, Suite 300",
   "Lagos, Nigeria",
-  "hello@synergerp.com",
-  "+234 (0) 800 SYNGERP",
+  "hello@triaepraxis.com",
+  "+234 (0) 800 TRIAEP",
 ];
 
 const currentYear = new Date().getFullYear();
@@ -49,13 +49,13 @@ export function Footer() {
               type="button"
               onClick={() => scrollTo("#home")}
               className="flex items-center gap-2 mb-4 group"
-              aria-label="SynergERP Home"
+              aria-label="Tria E Praxis Home"
             >
               <div className="w-8 h-8 rounded-lg bg-navy flex items-center justify-center">
                 <Zap className="w-4 h-4 text-gold" strokeWidth={2.5} />
               </div>
               <span className="font-display font-bold text-xl tracking-tight">
-                Synerg<span className="text-gold">ERP</span>
+                Tria E <span className="text-gold">Praxis</span>
               </span>
             </button>
             <p className="text-sm text-white/55 leading-relaxed mb-6 max-w-xs">

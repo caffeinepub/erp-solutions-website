@@ -5,7 +5,7 @@ import { fadeUp, sectionVariants } from "./animations";
 const TESTIMONIALS = [
   {
     quote:
-      "SynergERP transformed our entire production workflow. The implementation was seamless and the team was with us every step of the way. We saw measurable ROI within six months of go-live.",
+      "Tria E Praxis transformed our entire production workflow. The implementation was seamless and the team was with us every step of the way. We saw measurable ROI within six months of go-live.",
     name: "James Okafor",
     title: "Chief Operating Officer",
     company: "PrecisionMfg Ltd",
@@ -23,7 +23,7 @@ const TESTIMONIALS = [
   },
   {
     quote:
-      "Finally, an ERP partner who truly understands the service industry. Our billing cycle time dropped by 40% in the first quarter alone. SynergERP didn't just implement software — they changed how we operate.",
+      "Finally, an ERP partner who truly understands the service industry. Our billing cycle time dropped by 40% in the first quarter alone. Tria E Praxis didn't just implement software — they changed how we operate.",
     name: "Sarah Mensah",
     title: "Chief Financial Officer",
     company: "Apex Services Group",
@@ -68,7 +68,7 @@ export function TestimonialsSection() {
             className="text-muted-foreground text-lg leading-relaxed"
           >
             Real results, real organisations, real transformations — from
-            clients who trusted SynergERP with their most critical systems.
+            clients who trusted Tria E Praxis with their most critical systems.
           </motion.p>
         </motion.div>
 
